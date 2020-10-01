@@ -13,3 +13,17 @@ boxes around them. Once you have trained, saved, and exported the CNN, you will 
 to a web interface and perform real-time facial expression recognition on video and image data. 
 
 ![faceex_1](Images/faceex_1.png)
+
+## Skills
+
++ Deep Learning
+
++ CNN
+
++ Machine Learning
+
++ Keras
+
++ Computer Vision
+
+![facial](Images/facial.png)
